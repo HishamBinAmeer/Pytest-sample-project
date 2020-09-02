@@ -1,0 +1,10 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+pytest-env
+db.sqlite3
+/static
+.DS_Store
+index.html
+.coverage
